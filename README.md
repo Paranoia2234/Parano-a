@@ -1,1 +1,1 @@
-# Parano-a
+# Paranoia-store
